@@ -1,16 +1,34 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "pessoas" : [
+      {
+          "id": 1,
+          "nome": "nona",
+          "value": 0
+      },
+      {
+          "id": 2,
+          "nome": "nono",
+          "value": 0
+      },
+      {
+          "id": 3,
+          "nome": "dante",
+          "value": 0
+      },
+      {
+          "id": 4,
+          "nome": "giuseppe",
+          "value": 0
+      },
+      {
+          "id": 5,
+          "nome": "marina",
+          "value": 0
+      },
+      {
+          "id": 6,
+          "nome": "angelo",
+          "value": 0
+      }
   ]
 }
